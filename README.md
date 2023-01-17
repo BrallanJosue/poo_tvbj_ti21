@@ -1,6 +1,6 @@
 # curso programacion orientada a objetoos
 
-## indice
+## indice 
 
 |No.1|Archivo|Descripcion        |
 |----|-------|-------------------|
