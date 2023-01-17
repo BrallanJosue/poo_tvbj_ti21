@@ -1,4 +1,4 @@
-# curso programacion orientada a objetoos
+# Curso programacion orientada a objetoos
 
 ## indice 
 
