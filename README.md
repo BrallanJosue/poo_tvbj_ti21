@@ -2,6 +2,6 @@
 
 ## indice
 
-|No.1| |Archivo| |Descripcion|
+|No.1| |Archivo| |Descripcion        |
 |----|-|-------|-|-------------------|
 |1|programa0.py| Hola mundo en python|
