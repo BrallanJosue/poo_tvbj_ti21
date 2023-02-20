@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.csound
     pkgs.python38Full
   ];
   env = {
